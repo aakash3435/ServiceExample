@@ -36,6 +36,7 @@ Button start,stop;
                 stopService(new Intent(MainActivity.this,MyService.class));
             }
         });
+        //aa
 
     }
 }
